@@ -55,14 +55,14 @@ If you are not on a community question page when clicking the button, the bookma
         expando( all );
 })(jQuery , true);
 ```
-##### Variants
-###### "Next layer" version
+#### Variants
+##### "Next layer" version
 Uses `false` as the second parameter in the final line of the script:
 ```
 })(jQuery , false);
 ```
 
-###### "All replies" version
+##### "All replies" version
 Uses `true` as the second parameter in the final line of the script:
 ```
 })(jQuery , true);
