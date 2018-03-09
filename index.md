@@ -1,9 +1,8 @@
-# Helpful Tidbits
 This site will include helpful bits of information, nifty tools, and other cool stuff I find or create that might be useful to others.
 
 _Knowledge belongs to the world. Use it._
 
-## ServiceNow 
+## ServiceNow Tools
 
 ### Bookmarklet: Community replies expander
 
@@ -61,3 +60,6 @@ Uses `true` as the second parameter in the final line of the script:
 
 ## Learn More
 [Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) allow you to easily run javascript code on a page in your browser, as if you had run the code in the Developer Console. 
+
+## About
+Author: Chris Webster ([email](mailto:github-6RH3<AT>sys.redstone.email)
