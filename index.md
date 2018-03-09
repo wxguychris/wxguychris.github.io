@@ -48,13 +48,13 @@ javascript:
 ```
 ##### Variants
 ###### "Next layer" version
-Uses "false" as the second parameter in the final line of the script:
+Uses `false` as the second parameter in the final line of the script:
 ```
 })(jQuery , false);
 ```
 
 ###### "All replies" version
-Uses "true" as the second parameter in the final line of the script:
+Uses `true` as the second parameter in the final line of the script:
 ```
 })(jQuery , true);
 ```
