@@ -31,9 +31,6 @@ If you experience performance issues when using this version, try the [less inte
 
 Drag and drop one of the links above onto your browser's bookmarks bar to save the bookmarklet. To use it, click the bookmarklet when viewing a ServiceNow Community question to expand all replies.
 
-## Learn More
-[Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) allow you to easily run javascript code on a page in your browser, as if you had run the code in the Developer Console. 
-
 #### Code review
 The bookmarklet contains the following Javascript code, which only runs when you click the button on a community question page.
 
@@ -67,6 +64,9 @@ Uses `true` as the second parameter in the final line of the script:
 ```
 })(jQuery , true);
 ```
+
+## Learn More
+[Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) allow you to easily run javascript code on a page in your browser, as if you had run the code in the Developer Console. 
 
 ## About
 Author: Chris Webster ([email](mailto:github-nospam<AT>sys.redstone.email))
