@@ -6,6 +6,6 @@ _Human knowledge belongs to the world. Use it._
 - [Show Community Replies Bookmarklet](/now-tools.html#bookmarklet-community-replies-expander)
 
 ## About
-Author: Chris Webster
-Email: [click me!](mailto:github-contact^AT^redstone.email) 
-> *This email address has lost its @; you'll need to supply your own if you want to craft an email with it.* 
+* Content maintaned by Chris Webster.
+* Email: [click me!](mailto:github-contact^AT^redstone.email)
+     > *This email address has lost its @; you'll need to supply your own if you want to craft an email with it!* 
