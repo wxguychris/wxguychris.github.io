@@ -14,7 +14,7 @@ When you click the bookmarklet, each visible "View __n__ replies to __username__
 This [bookmarklet](#learn-more) will expand all hidden replies, regardless of the depth of those replies. 
 When you click the bookmarklet, each visible "View __n__ replies to __username__" link will be clicked, repeating until there are no more hidden replies. 
 
-This option loads all information faster, but at the cost of increased network traffic, browser workload, and load on the ServiceNow communities site.
+This option loads all replies with fewer clicks, but at the cost of increased network traffic, browser workload, and load on the ServiceNow communities site. If you experience performance issues with this bookmarklet, try the [less intensive version](#expand-next-layer).
 
 #### Bookmarklets
 
@@ -62,4 +62,4 @@ Uses `true` as the second parameter in the final line of the script:
 [Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) allow you to easily run javascript code on a page in your browser, as if you had run the code in the Developer Console. 
 
 ## About
-Author: Chris Webster ([email](mailto:github-6RH3<AT>sys.redstone.email)
+Author: Chris Webster ([email](mailto:github-nospam<AT>sys.redstone.email))
