@@ -15,21 +15,21 @@ One loads only the next layer of hidden replies, the other loads all remaining h
 
 This chart shows the effects of each bookmarklet on the visibility of community question replies: 
 
-|   | Visible by default  | After Expand next layer  | After Expand all replies  |   |
-|---|---|---|---|---|
-|Question   | X  | X  | X  |   |
-|Reply 1   | X  | X  | X  |   |
-|--Reply 2    |   | X  | X  |   |
-|----Reply 3   |   |   |  X |   |
-|Reply 4   | X  |  X |  X |   |
-|--Reply 5   |   | X  | X  |   |
-|--Reply 6   |   |  X | X  |   |
-|Reply 7   |  X | X  | X  |   |
-|--Reply 8   |   | X  | X  |   |
-|----Reply 9   |   |   | X  |   |
-|------Reply 10   |   |   | X  |   |
-|--------Reply 11   |   |   | X  |   |
-|----------Reply 12   |   |   | X  |   |
+|   | Visible by default  | After Expand next layer  | After Expand all replies  |
+|---|---|---|---|
+|Question   | X  | X  | X  |
+|Reply 1   | X  | X  | X  |
+|--Reply 2    |   | X  | X  |
+|----Reply 3   |   |   |  X |
+|Reply 4   | X  |  X |  X |
+|--Reply 5   |   | X  | X  |
+|--Reply 6   |   |  X | X  |
+|Reply 7   |  X | X  | X  |
+|--Reply 8   |   | X  | X  |
+|----Reply 9   |   |   | X  |
+|------Reply 10   |   |   | X  |
+|--------Reply 11   |   |   | X  |
+|----------Reply 12   |   |   | X  |
 
 
 ### Using Bookmarklets
