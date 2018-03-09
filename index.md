@@ -69,4 +69,4 @@ Uses `true` as the second parameter in the final line of the script:
 [Bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet) allow you to easily run javascript code on a page in your browser, as if you had run the code in the Developer Console. 
 
 ## About
-Author: Chris Webster ([email](mailto:github-nospam<AT>sys.redstone.email))
+Author: Chris Webster ([email](mailto:github-nospam{AT}sys.redstone.email<Chris Webster>))
